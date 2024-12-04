@@ -45,5 +45,5 @@ This repository contains a simple calculator app built with **MIT App Inventor**
 ## Screenshots
 
 Below is a preview of the calculator interface:
+![Calculator App Interface](https://github.com/user-attachments/assets/b8debf00-8266-4e38-b456-91e31b0fa82c)
 
-![Calculator App Interface](img_preview.jpg)
