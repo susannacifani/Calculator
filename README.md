@@ -28,4 +28,14 @@ This repository contains a simple calculator app built with **MIT App Inventor**
 3. Click on **Projects > Import project (.aia) from my computer**.
 4. Select the `Calculator.aia` file and start working on the project.
 
+## Features
 
+- Perform a variety of arithmetic operations:
+  - **Addition (+)**
+  - **Subtraction (-)**
+  - **Multiplication (×)**
+  - **Division (÷)**
+  - **Percentage (%)**
+  - **Sign Change (+/-)**
+- **History**: Displays the most recent calculation at the top of the screen.
+- Simple, intuitive, and user-friendly interface.
