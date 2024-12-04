@@ -39,3 +39,11 @@ This repository contains a simple calculator app built with **MIT App Inventor**
   - **Sign Change (+/-)**
 - **History**: Displays the most recent calculation at the top of the screen.
 - Simple, intuitive, and user-friendly interface.
+
+- ---
+
+## Screenshots
+
+Below is a preview of the calculator interface:
+
+![Calculator App Interface](img_preview.jpg)
