@@ -2,6 +2,13 @@
 
 This repository contains a simple calculator app built with **MIT App Inventor**. The app allows users to perform basic arithmetic operations, including addition, subtraction, multiplication, division and more.
 
+DEMO:
+
+https://github.com/user-attachments/assets/b3d13b37-649c-4bab-b387-f4507bb66106
+
+
+
+
 ---
 
 ## Files in this Repository
@@ -46,4 +53,5 @@ This repository contains a simple calculator app built with **MIT App Inventor**
 
 Below is a preview of the calculator interface:
 ![Calculator App Interface](https://github.com/user-attachments/assets/b8debf00-8266-4e38-b456-91e31b0fa82c)
+
 
